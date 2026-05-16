@@ -1,14 +1,9 @@
 # Garant-Fleet ID: Biometric Authentication & Relay Intervention Framework
 ### Part of the "Garant-Fleet AI" Integrated Intelligent Analytics Ecosystem
 
----
-
-<g-emoji class="g-emoji" alias="blue_square" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d8.png">📘</g-emoji> **GARANT-FLEET AI PLATFORM** **Integrated Intelligent Analytics & Real-Time Monitoring Ecosystem** `[ Framework: Garant-Fleet ID ]` • `[ Engine: Garant-Fleet DSM ]` • `[ System: Garant-Fleet Fuel ]`  
-*Enterprise Infrastructure for Commercial Fleet Safety & Asset Protection*
-
----
-
-<div style="page-break-after: always; break-after: page;"></div>
+<p align="center">
+  <img src="banner.svg" alt="Garant-Fleet AI Banner" width="100%">
+</p>
 
 ## Platform Overview
 **Garant-Fleet ID** is an enterprise-grade biometric authentication and hardware-level ignition control framework engineered for commercial vehicle telematics and Driver Status Monitoring (DSM) platforms. Developed as a core pillar of the **Garant-Fleet AI** ecosystem by a single founder, this real-time detection system prevents unauthorized fleet operation by executing high-speed, local biometric verification prior to vehicle ignition clearance.
