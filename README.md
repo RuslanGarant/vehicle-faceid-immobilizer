@@ -16,7 +16,7 @@ The system prevents unauthorized vehicle operation by verifying the driver's ide
 4. **Action:** * **Match Found:** The system triggers the relay to unlock the ignition.
    * **No Match / Unknown Person:** The vehicle remains immobilized, and a security log (with a snapshot) is prepared for fleet dispatch transmission.
   
-   * graph TD
+     graph TD
     A[Vehicle ACC ON / Door Opened] --> B[Activate In-Cabin Camera]
     B --> C{Face Detected?}
     C -->|Yes| D[Extract Facial Vectors via Edge AI]
