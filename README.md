@@ -1,7 +1,7 @@
 # Garant-Fleet ID: Biometric Authentication & Relay Intervention Framework
 ### Part of the "Garant-Fleet AI" Integrated Intelligent Analytics Ecosystem
 
-![Garant-Fleet AI Banner](banner.png)
+![Garant-Fleet AI Banner](banner.svg)
 
 
 
