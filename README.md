@@ -1,9 +1,12 @@
 # Garant-Fleet ID: Biometric Authentication & Relay Intervention Framework
 ### Part of the "Garant-Fleet AI" Integrated Intelligent Analytics Ecosystem
 
-<p align="center">
-  <img src="Face%20ID.svg" alt="Garant-Fleet AI Banner" width="100%">
-</p>
+---
+
+<g-emoji class="g-emoji" alias="blue_square" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d8.png">📘</g-emoji> **GARANT-FLEET AI PLATFORM** **Integrated Intelligent Analytics & Real-Time Monitoring Ecosystem** `[ Framework: Garant-Fleet ID ]` • `[ Engine: Garant-Fleet DSM ]` • `[ System: Garant-Fleet Fuel ]`  
+*Enterprise Infrastructure for Commercial Fleet Safety & Asset Protection*
+
+---
 
 <div style="page-break-after: always; break-after: page;"></div>
 
