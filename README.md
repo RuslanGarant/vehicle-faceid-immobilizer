@@ -27,5 +27,9 @@ graph TD
     F --> G[Engine Start Permitted]
     E -->|Unauthorized| H[Trigger Relay: LOCK Ignition]
     H --> I[Security Alert & Fleet Dispatch Log]
+## Architectural Differentiation & Innovation (Original Contribution)
+Unlike generic face-recognition scripts that run on cloud-dependent, high-power hardware, this module is uniquely engineered for restrictive automotive environments:
+* **Fail-Safe Relay Intervention:** The immobilization logic operates strictly in the *pre-ignition phase*. It is architecturally isolated from the vehicle's electrical circuit while in motion. If a camera failure or sensor disconnection occurs during driving, the system maintains the ignition state to prevent dangerous engine cut-offs on highways, complying with ISO 26262 automotive safety standards.
+* **Privacy-Preserving Edge AI:** Bio-metric data is not transmitted to external cloud servers, preventing cellular data overhead and ensuring strict compliance with fleet data privacy laws (GDPR/CCPA). Face vector encodings are processed and stored locally using hardware-accelerated Edge Inference on the board.
 
 
